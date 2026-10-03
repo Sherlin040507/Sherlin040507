@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nisha Sherlin 👋
 
-<!--
-**Sherlin040507/Sherlin040507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Second-year Engineering student | ECE + CSE | Chennai, India**
+Interested in embedded systems, hardware-software integration, and semiconductor / chip design.
 
-Here are some ideas to get you started:
+## 🔧 What I'm working on
+- **SonicShield**: a self-cleansing solar IoT node that uses Surface Acoustic Waves (SAW) to remove dust from solar panels without water or moving parts
+- Building my embedded, PCB design and Verilog portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C, Python, Verilog
+- **Embedded:** ESP32 / STM32 
+- **Tools:** Git/GitHub
+- **Core topics:** Analog & digital electronics, power electronics basics, IoT
+
+## 📌 Featured projects
+| Project | What it is |
+|---|---|
+| [SonicShield](https://github.com/Sherlin040507/SonicShield) | Self-cleansing solar IoT node using SAW technology |
+| Coming soon | Embedded project with sensor data logging |
+| Coming soon | KiCad PCB design |
+
+## 🏆 Hackathons
+- Smart India Hackathon 2026
+
+## 📫 Contact
+- Email: sherlin070504@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nisha-sherlin-r-7528a137a
