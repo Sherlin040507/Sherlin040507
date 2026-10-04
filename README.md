@@ -1,6 +1,6 @@
 # Hi, I'm Nisha Sherlin 👋
 
-**Second-year Engineering student | ECE + CSE | Chennai, India**
+**Second-year Engineering student | ECE | Chennai, India**
 Interested in embedded systems, hardware-software integration, and semiconductor / chip design.
 
 ## 🔧 What I'm working on
